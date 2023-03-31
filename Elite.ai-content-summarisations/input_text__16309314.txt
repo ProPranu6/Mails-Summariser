@@ -1,0 +1,12 @@
+Greetings Ma'am I'm Praneeth Thota of CSE B, AP19110010207.
+Firstly congrats on your paper submission ma'am.
+Ma'am I have some queries regarding the assignment titled "Project Problem Statement".
+Ma'am in the partial description of this assignment certain details pertaining to sensor node distribution, energies and packet attributes are given.
+And also we are asked to simulate the sending of 5 packets from each sensory node to the sink.
+However no routing protocols, or radio ranges for the sensory nodes or manipulation of energies for each packet transmission from node to node are given yet since this is just a primary stage of a main project.
+So given the limited details, I simulated an unreal packet transmission which follows neither radio ranges nor any routing protocols.
+My query here is, when I only have partial information about the project can I also state my problem statement accordingly?
+Meaning, can I state a problem statement about just the first stage unreal simulation I made that doesn't encompass any routing protocols and other specifics?
+And can I submit this partial simulation now and still modify it later further down the semester when all the concepts are known and not be graded until the final submission is made?
+Please enlighten me about what are necessary components and what are frills at this stage of submission so that I can submit accordingly.
+Regards, Praneeth Thota, CSE B

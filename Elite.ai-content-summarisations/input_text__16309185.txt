@@ -1,0 +1,11 @@
+Dear Praneeth, Thanks for your submission.
+Please do monitor the leaderboard at p=3Dsharing <google.com%2Fdrive%2Ffolders%2F1O8TT0s4zMyiI6zR-biVRoiLiAUy-W1H0%3Fusp%3Dsh= aring&data=3D04%7C01%7Cbharatk%40nvidia.com%7Cae050535240f47f036b408d96d0e3= 759%7C43083d15727340c1b7db39efd9ccc17a%7C0%7C0%7C637660730096867801%7CUnkno= wn%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVC= I6Mn0%3D%7C1000&sdata=3DnyglgJzw1oR5fXwm8txA8WIkJtrH5VVtparwn4ouvkI%3D&rese= rved=3D0> ( leaderboard.json ).
+The top 40 teams will move to round 2 of the Hackathon.
+Please make sure while submitting, the following is taken care of: - Please ensure your solution is submitted is direct link to result of test set run in form of JSON( sp=3Dsharing%20%C2%A0 <ve.google.com%2Ffile%2Fd%2F1SsHWe4c3t3mbqVHm1X6rV7gXAmGtGY6y%2Fview%3Fusp%3= Dsharing%2520%25C2%25A0&data=3D04%7C01%7Cbharatk%40nvidia.com%7Cae050535240= f47f036b408d96d0e3759%7C43083d15727340c1b7db39efd9ccc17a%7C0%7C0%7C63766073= 0096867801%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJB= TiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=3D%2F34qBIbcJfTc9nySyu5HY2GRzhNnOon= XqWpdUrWM%2BSE%3D&reserved=3D0>), template provided.
+We see a lot of submission to github and not to direct JSON file .
+Also the github repository is not accessible.
+These entries will be disqualified.
+- Please make sure that the submission is accessible and we can download it.
+You can resubmit the applications till the last date of India Academia Connect AI Hackathon Application Deadline September 12, 2021.
+Only top 40 teams will qualify for the next round to win exciting prizes.
+Regards, Academia Connect Team

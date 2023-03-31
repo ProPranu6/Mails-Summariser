@@ -1,0 +1,12 @@
+Sure, will do that sir On Fri, 3 Sep 2021 at , Piyush Joshi <piyush.j@srmap.edu.in> wrote: > Praneeth, I really appreciate your efforts.
+We will discuss this in class.
+> Please remind me in our theory class.
+> Thank you.
+> > On Fri, Sep 3, 2021 at AM Thota Venkata Saai Praneeth .
+| > AP19110010207 <praneeth_thota@srmap.edu.in> wrote: > >> Greetings Sir, >> This is Praneeth Thota, AP19110010207, from CSE B.
+Sir after listening to >> your lecture today on A optimality which is possible when heuristic is >> admissible, I tried out an example scenario where the heuristic follows >> admissibility but still I feel the A search doesn't give an optimal >> output.
+The problem is attached below.
+In the problem, I considered the >> nodes A, B, C and D to be sitting on the same horizontal axis.
+In such a >> scenario as you can see in the attachment the A algorithm chooses >> A-B-C-D-E-F-G as the optimal path which gives a total path cost of 34 >> whereas the true optimal path is A-E-F-G which has a path cost of 31.
+Could >> you please look into the problem and tell me if I had gone wrong anywhere?
+>> Note: g(x) returns the path cost from start node to node x >>  h(x) returns the straight line cost from node x to goal node >>  Here A is start node and G is goal Node >> >> Thanking you >> Regards, >> Praneeth Thota >> [image: PHOTO-2021-09-03-10-54-17.jpg] >> > > > -- > Thanks & Regards, > > Dr. Piyush Joshi > > Assistant Professor, > > Department of Computer Science and Engineering, > > SRM University- AP, > > Amaravati, 522502, Andhra Pradesh, INDIA >
